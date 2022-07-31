@@ -32,11 +32,6 @@ The only local dependency you need to configure to use this codebase is `docker-
     ```console
     poetry run python .
     ```
-  * Run the linter.
-    ```console
-    poetry run flake8
-    ```
-    * For more usage instructions, see [the flake8 documentation](https://flake8.pycqa.org/en/latest/index.html).
   * Run the auto formatter.
     ```console
     poetry run pre-commit run --all-files
