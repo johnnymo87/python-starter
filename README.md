@@ -15,10 +15,6 @@ The only local dependency you need to configure to use this codebase is `docker-
   ```
 
 ## Run
-* Run the app one time and exit:
-  ```console
-  docker-compose run --rm app
-  ```
 * Open a long-running session inside the container:
   ```console
   docker-compose run --rm app bash
@@ -28,9 +24,9 @@ The only local dependency you need to configure to use this codebase is `docker-
     ```console
     poetry run pytest
     ```
-  * Run the app.
+  * Run the `python_starter` module.
     ```console
-    poetry run python .
+    poetry run python -m python_starter
     ```
   * Run the auto formatter.
     ```console
