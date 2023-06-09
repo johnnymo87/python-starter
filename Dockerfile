@@ -1,4 +1,4 @@
-FROM python:3.10-bullseye AS production
+FROM python:3.11-bullseye AS production
 
 WORKDIR /app
 ENV PYTHONPATH=.
