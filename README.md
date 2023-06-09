@@ -2,7 +2,7 @@
 This app is a starter kit for writing code and [tests](https://docs.python.org/3/library/unittest.html) in python. Use it as a seed for starting a new python project. Use the following command to copy this app's code to a new directory:
 ```console
 mkdir -p path/to/new
-cp -r path/to/this/directory path/to/new/directory
+cp -r path/to/this/directory/ path/to/new/directory/
 ```
 
 ## Dependencies
