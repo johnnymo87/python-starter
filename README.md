@@ -71,7 +71,6 @@ Here's how to install and run the code in docker.
 
 * Documentation [here](https://docs.python.org/3/library/pdb.html).
 * Set a breakpoint with `import pdb; pdb.set_trace()`.
-  * If you're using vim with [a project-specific .vimrc](https://andrew.stwrt.ca/posts/project-specific-vimrc/), you can type this with `<leader>db`.
 * Show where you are with `list`.
 * Continue with `continue`.
 * Quit with `quit`.
