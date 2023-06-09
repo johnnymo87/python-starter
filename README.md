@@ -79,3 +79,11 @@ Here's how to install and run the code in docker.
 ## Add a new python package
 
 This app makes use of [`poetry`](https://python-poetry.org/) to manage packages. See docs there for how to add packages.
+
+## Contributing
+
+If you'd like to contribute to the project, please feel free to submit a pull request or open an issue to discuss your ideas.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
